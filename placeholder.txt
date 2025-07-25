@@ -1,1 +1,1 @@
-ضع الصور والموسيقى هنا
+pip install -r requirements.txt
