@@ -1,7 +1,1 @@
-openai
-gtts
-moviepy
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
-google-api-python-client
+# لا توجد مكتبات خارجية في هذا المثال
